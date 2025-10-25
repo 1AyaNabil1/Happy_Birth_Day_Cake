@@ -26,7 +26,7 @@ A beautiful, interactive birthday cake animation created with Python's Turtle Gr
 - **Personalized Message** - Customizable birthday greeting
 - **Dark Background** - Elegant dark theme to make colors pop
 
-## Demo
+## What You'll See
 
 When you run the program, you'll see:
 1. A beautiful dark lavender background
