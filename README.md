@@ -10,13 +10,11 @@ A beautiful, interactive birthday cake animation created with Python's Turtle Gr
 
 ## Demo Video
 
-<div align="center">
-  <video src="assets/Happy.mp4" controls>
-    Your browser does not support the video tag.
-  </video>
-</div>
+https://github.com/user-attachments/assets/your-video-id-here.mp4
 
-Alternatively, view the video here: [Watch Demo](https://github.com/1AyaNabil1/Happy_Birth_Day_Cake/assets/Happy.mp4)
+> **Note:** To update the video above, edit this README file on GitHub.com, delete the placeholder link above, and drag & drop your `Happy.mp4` file directly into the editor. GitHub will automatically upload it and generate the correct URL.
+
+**Alternative:** [Download the demo video](assets/Happy.mp4) to view locally.
 
 > **Note:** The birthday cake animation showcases the beautiful pink and purple themed cake with candles, hearts, and stars! 
 
