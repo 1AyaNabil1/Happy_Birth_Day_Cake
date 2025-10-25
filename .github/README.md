@@ -10,9 +10,9 @@ Thank you for your interest in contributing to this project!
 
 ## Quick Links
 
-- [Report a Bug](.github/ISSUE_TEMPLATE/bug_report.md)
-- [Request a Feature](.github/ISSUE_TEMPLATE/feature_request.md)
-- [Submit a Pull Request](.github/PULL_REQUEST_TEMPLATE.md)
+- [Report a Bug](ISSUE_TEMPLATE/bug_report.md)
+- [Request a Feature](ISSUE_TEMPLATE/feature_request.md)
+- [Submit a Pull Request](PULL_REQUEST_TEMPLATE.md)
 
 ## Project Goals
 

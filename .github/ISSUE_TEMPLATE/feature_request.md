@@ -28,6 +28,6 @@ Add any other context or screenshots about the feature request here.
 
 ---
 <div align="center">
-  <strong>Built by AyaNexus 🦢</strong>
+  <em>Built by AyaNexus 🦢</em>
   <br>
 </div>
