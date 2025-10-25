@@ -11,7 +11,7 @@ A beautiful, interactive birthday cake animation created with Python's Turtle Gr
 ## Demo Video
 
 <div align="center">
-  <video src="https://github.com/1AyaNabil1/Happy_Birth_Day_Cake/assets/Happy.mp4" controls>
+  <video src="assets/Happy.mp4" controls>
     Your browser does not support the video tag.
   </video>
 </div>
